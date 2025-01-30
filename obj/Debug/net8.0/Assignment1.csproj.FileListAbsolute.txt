@@ -1,0 +1,14 @@
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\WCTC\2025\.Net\Module1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+E:\WCTC\2025\.Net\Module1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+E:\WCTC\2025\.Net\Module1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+E:\WCTC\2025\.Net\Module1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+E:\WCTC\2025\.Net\Module1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+E:\WCTC\2025\.Net\Module1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

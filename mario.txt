@@ -1,0 +1,3 @@
+1,Luigi,Brother
+2,Bowser,Nemesis
+3,Peach,love interest
